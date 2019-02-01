@@ -22,7 +22,7 @@ def read():
 
 
 #データ取得
-x,y = temperature()
+x,y = read()
 #データの表示
 plt.plot(x, y)
 plt.show()
