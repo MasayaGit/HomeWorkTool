@@ -7,7 +7,7 @@
 import matplotlib.pyplot as plt
 
 
-#csv,txtファイルなどからデータ読み取る関数
+#csv,txtファイルなどからデータ読み取る関数　データの形に合わせて修正する必要ある。
 def read():
     y = []
     x = []
